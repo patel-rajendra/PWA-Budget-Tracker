@@ -8,7 +8,7 @@
 - [Installation](#Installation)
 - [Local Usage](#Local-Usage)
 - [Links](#Links)
-- [License](#License)
+
 
 ##
 
@@ -41,8 +41,5 @@ npm start
 ## Links
 
 
-## License
-
-This project is covered under the MIT License.
 
 
