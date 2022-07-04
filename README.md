@@ -8,7 +8,7 @@
 - [Installation](#Installation)
 - [Local Usage](#Local-Usage)
 - [Links](#Links)
-- [License](#License)
+
 
 ##
 
@@ -39,10 +39,9 @@ npm start
 ```
 
 ## Links
+https://app-pwa-budget-tracker.herokuapp.com/
 
+https://www.screencast.com/t/UmyPBMGmg
 
-## License
-
-This project is covered under the MIT License.
 
 
