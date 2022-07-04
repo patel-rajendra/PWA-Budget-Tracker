@@ -45,4 +45,4 @@ npm start
 
 This project is covered under the MIT License.
 
-![Screen Shot 2022-06-25 at 10 54 28 AM](https://user-images.githubusercontent.com/91699101/175779070-3a7d6cb3-b26a-4e77-ad44-93e8344d52c9.png)
+
