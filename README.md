@@ -1,4 +1,4 @@
-# pwa-budget-tracker - June 25th 2022 - Carlos Sabbah
+# PWA-Budget-Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,14 +8,13 @@
 - [Installation](#Installation)
 - [Local Usage](#Local-Usage)
 - [Links](#Links)
-- [Questions](#Questions)
 - [License](#License)
 
 ##
 
 ## Description
 
-This is progressive web application (PWA) that gives users a fast and easy way to track their finances while also plotting their data on a chart. With the combination of indexedDB, Service Worker, and a Manifest, pwa-budget-tracker allows users to deposit and withdraw their expenses on the go with or without data/internet connection. Additional functionality is implemented to ensure that if users submit new data at the same time they go offline, that data gets saved and gets automatically uploaded to the database once they regain internet connection.
+This is progressive web application (PWA) that gives users a fast and easy way to track their money while also plotting their data on a chart. Having offline functionality is paramount to the success of an application that handles users’ financial information. This app update an existing budget tracker application to allow for offline access and functionality.The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. 
 
 ## Installation
 
@@ -39,35 +38,8 @@ Once all dependencies are installed (via 'npm install'), you can start the serve
 npm start
 ```
 
-From there, you are ready to use the application!
-
 ## Links
 
-[Link to live application](https://fullpwa-budget-tracker.herokuapp.com/)
-
-## Built With
-
-- Node.js
-- Express.js
-- IndexedDB
-- Service Worker
-- NoSQL (MongoDB)
-- MongoDB Atlas
-- Heroku
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Font-awesome
-
-## Questions
-
-[My portfolio](https://csabbah.github.io/Carlos-Sabbah-portfolio/)
-
-To view my other applications:
-[Github](https://github.com/csabbah)
-
-If you have questions about this application or general inquiry, please reach out to me via email: carlossabbah@hotmail.com
 
 ## License
 
